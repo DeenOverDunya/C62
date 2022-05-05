@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    font-family:monospace;
+    font-size: xx-large;
+}
+
+#app {
+    background-color:cornflowerblue;
+    font-family:monospace;
+    font-size: xx-large;
+}
+
+#mycarousel
+{
+    background-color:mediumpurple;
+    font-family:monospace;
+    font-size: xx-large;
+}
+
+h2
+{
+    font-family:monospace;
+    font-size: xx-large;
+}
+
+h5{
+    font-family:monospace;
+    font-size: xx-large;
+}
+
+#mycarousel img
+{
+height: 300px;
+margin-top: 35px;
+}
+
+
